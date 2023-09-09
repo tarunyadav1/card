@@ -33,6 +33,7 @@ const IncomeBreakdown = () => {
 				background: 'white',
 				color: '#262626',
 				fontFamily: 'Roboto',
+				height: 'fit-content',
 			}}>
 			<div
 				style={{
